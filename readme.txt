@@ -1,0 +1,2 @@
+1.RLY-8 software is a pc software.you can use it control the PLY-8 with you computer directly.
+2. if your computer is windows,and you want to use usb cable to control the RLY by your computer then you should Installation the usbdrive.
